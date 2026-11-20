@@ -1,0 +1,12 @@
+{
+  "position": "web developer",
+  "location": "San Francisco",
+  "country": "US",
+  "maxItemsPerSearch": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "indeed-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Indeed Scraper: Scrape Indeed jobs in any country: title, company, location, salary, job type, rating and full description. No login needed. Export to JSON, CSV or Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "indeed"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
